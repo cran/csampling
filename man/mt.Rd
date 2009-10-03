@@ -52,7 +52,7 @@ rmt(n, df=stop("'df' argument is missing, with no default"),
 }
 \section{Side Effects}{
   The function \code{rmt} causes creation of the dataset 
-  \code{\link[base]{.Random.seed}} if it does not already exist, 
+  \code{\link{.Random.seed}} if it does not already exist, 
   otherwise its value is updated.
 }
 \section{Background}{
@@ -78,7 +78,7 @@ rmt(n, df=stop("'df' argument is missing, with no default"),
 }
 \seealso{
   \code{\link[stats]{TDist}}, \code{\link[stats]{Normal}}, 
-  \code{\link[base]{.Random.seed}}.
+  \code{\link[base]{Random}}.
 }
 \examples{
 dmt(c(0.1, -0.4), df = 4, mm = c(1, -1))  

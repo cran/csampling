@@ -1,6 +1,6 @@
 Package: csampling
-Version: 1.1-3
-Date: 2009-09-14
+Version: 1.2-0
+Date: 2009-10-03
 Title: Functions for Conditional Simulation in Regression-Scale Models
 Author: S original by Alessandra R. Brazzale
         <alessandra.brazzale@unimore.it>. R port by Alessandra R.
@@ -13,6 +13,6 @@ License: GPL (>= 2)
 URL: http://www.r-project.org, http://statwww.epfl.ch/AA/
 LazyLoad: yes
 LazyData: yes
-Packaged: 2009-09-24 19:24:48 UTC; hornik
+Packaged: 2009-10-03 15:16:22 UTC; brazzale
 Repository: CRAN
-Date/Publication: 2009-09-24 20:13:15
+Date/Publication: 2009-10-05 15:02:05

@@ -148,7 +148,7 @@ rsm.sample(data = stop("no data given"), R = 10000,
 }
 \section{Side Effects}{
   The function \code{rsm.sample} causes creation of the dataset
-  \code{\link[base]{.Random.seed}} if it does not already exist, 
+  \code{\link{.Random.seed}} if it does not already exist, 
   otherwise its value is updated.
 }
 \section{Demonstration}{
