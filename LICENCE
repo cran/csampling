@@ -11,9 +11,9 @@ Copyrights
 ==========
 
 File csampling/R/csampling.R 
-  Copyright (C) 2000-2009 Alessandra R. Brazzale
+  Copyright (C) 2000-2011 Alessandra R. Brazzale
 File csampling/inst/csamplingdemo.R 
-  Copyright (C) 2000-2009 Alessandra R. Brazzale
+  Copyright (C) 2000-2011 Alessandra R. Brazzale
 
 
 Licence
@@ -40,4 +40,4 @@ The file COPYING in the R top-level directory is a copy of the `GNU
 General Public License'.
 
 
-alessandra.brazzale@unimore.it
+alessandra.brazzale@unipd.it

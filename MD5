@@ -1,0 +1,17 @@
+e4bceda05c5501ba099c54fe2063958c *CHANGES
+94d55d512a9ba36caa9b7df079bae19f *COPYING
+5b261a2857d4a724ac29ac066ba60f1f *DESCRIPTION
+6b52df1c1d9995f8d1f7bdb9b44aaa4e *INDEX
+6461d6b366cd2e3be828dcbc8ff9f313 *LICENCE
+51b08f88aa0cfbe2e7b5161a57f6d34b *NAMESPACE
+53665c608d271935722c16811b319e54 *R/csampling.R
+c8e97fcb7578e4ddab24d9ebcb16a32e *R/zzz.R
+1600f79f1c63096aacdd08b07db1e67e *inst/CITATION
+51c9ae0f9542b56b09d40ab7174c8566 *inst/csamplingdemo.R
+a165f5122325ecb4e6276c00b49ded63 *man/Laplace.Rd
+3f8e774550fb4ed3ebc9a448e0da05ac *man/Laplace.support.Rd
+ea7577b4525a95cab7a151206fd27355 *man/csampling-package.Rd
+ca2db252ca392b20b5f531d3027f7fa3 *man/make.sample.data.Rd
+672cb1e776d187645613c6b7d371540e *man/mt.Rd
+1f6c3c3ccf7354e6f42c3b4aa64bc05a *man/plot.Lapl.Rd
+55463ca4c949558c602ed1da439a7b61 *man/rsm.sample.Rd
