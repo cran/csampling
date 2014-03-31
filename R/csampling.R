@@ -1,6 +1,6 @@
-## file csampling/R/csampling.R, v 1.2-1. 2011/11/23
+## file csampling/R/csampling.R, v 1.2-2 2014-03-31
 ##
-##  Copyright (C) 2000-2011 Alessandra R. Brazzale 
+##  Copyright (C) 2000-2014 Alessandra R. Brazzale 
 ##
 ##  This file is part of the "csampling" package for R.  This program  
 ##  is free software; you can redistribute it and/or modify it under 
