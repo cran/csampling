@@ -10,3 +10,11 @@ import(
   statmod,
   survival
 )
+
+importFrom("graphics", "contour", "plot")
+importFrom("stats", "coef", "dlogis", "dt", "dweibull", "family",
+           "model.matrix", "optim", "rchisq", "rnorm", "rt", "runif",
+           "spline")
+
+S3method(plot, Lapl.cont)
+S3method(plot, Lapl.spl)
